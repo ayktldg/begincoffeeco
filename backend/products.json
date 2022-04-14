@@ -1,0 +1,117 @@
+[
+    {
+        "title": "Philips Espresso Machine Series 2200",
+        "productCode": "CFMAE1",
+        "image": "https://images.unsplash.com/photo-1620807773206-49c1f2957417?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "description": {
+          "Capacity": "1.8 liters",
+          "Color": "Black set",
+          "Special Feature": "Milk frother, 2-cup function, Removable brewing group, Milk Frother, Hot water function, AquaClean, Dishwasher safe",
+          "About this item": [
+            "4 BREW STYLES: Select from one of the four, versatile brew styles: Classic, Rich, Over Ice, or Specialty Brew.",
+            "SPECIALTY BREWS: Brew a super-rich coffee concentrate that you can use to create delicious lattes, macchiatos, cappuccinos, and other coffeehouse-style drinks.",
+            "MAKE ICED COFFEE: Brew fresh over ice for flavorful iced coffee that's never watered down.",
+            "NO PODS REQUIRED: Use your favorite grounds to create a single-serve coffee—no reusable pod required."
+          ]
+        },
+        "price": 2200,
+        "categories": [ "coffee machine", "coffee", "espresso machine" ],
+        "stockAmount": 8
+      },
+      {
+        "title": "Barista Express Espresso Machine, Brushed Stainless Steel",
+        "productCode": "CFMAE2",
+        "image": "https://m.media-amazon.com/images/I/81jwrgyJDXL._AC_SX679_.jpg",
+        "description": {
+          "Capacity": "4 liters",
+          "Color": "Stainless Steel",
+          "Special Feature": "Manual",
+          "About this item": [
+            "The Barista Express delivers third wave specialty coffee at home using the 4 keys formula and is part of the Barista Series that offers all in one espresso machines with integrated grinder to go from beans to espresso in under one minute.",
+            "DOSE CONTROL GRINDING: Integrated precision conical burr grinder grinds on demand to deliver the right amount of freshly ground coffee directly into the portafilter for your preferred taste with any roast of bean",
+            "OPTIMAL WATER PRESSURE: Low pressure pre-infusion gradually increases pressure at the start and helps ensure all the flavors are drawn out evenly during the extraction for a balanced tasting cup",
+            "PRECISE ESPRESSO EXTRACTION: Digital temperature control (PID) delivers water at precisely the right temperature, ensuring optimal espresso extraction",
+            "MANUAL MICROFOAM MILK TEXTURING: The powerful steam wand performance allows you to hand texture microfoam milk that enhances flavor and enables creation of latte art",
+            "ESPRESSO MAKER WITH BUILT-IN COFFEE GRINDER: Innovative grinding cradle allows any at home barista to grind directly into the espresso portafilter for the perfect espresso"
+          ]
+        },
+        "price": 3000,
+        "categories": [ "coffee machine", "coffee", "espresso machine" ],
+        "stockAmount": 6
+      },
+      {
+        "title": "Whole Bean Blend, Medium Roast, 100% Arabica",
+        "productCode": "CFBEM1",
+        "image": "https://m.media-amazon.com/images/I/71Jo3sC0TXL._SX679_.jpg",
+        "description": {
+          "Item Form": "Whole Bean",
+          "Flavor": "Qualita ORO - 2.2 LB",
+          "Roast Level": "Medium_roast",
+          "Caffeine Content": "Caffeinated",
+          "About this item": [
+            "A unique combination of 6 varieties of Arabica beans from amongst Central and South America, expertly crafted and blended since 1956.",
+            "This blend has a smooth, refined flavor, and is delicious as an after-dinner coffee."
+          ]
+        },
+        "price": 8,
+        "categories": [ "coffee", "espresso", "arabica" ],
+        "stockAmount": 70
+      },
+      {
+        "title": "Dark Roast - 100% Arabica Coffee Beans",
+        "productCode": "CFBED1",
+        "image": "https://m.media-amazon.com/images/I/81TBeTikHhL._SX679_.jpg",
+        "description": {
+          "Item Form": "Ground",
+          "Flavor": "New York Roast",
+          "Roast Level": "Dark_roast",
+          "Caffeine Content": "Decaffeinated",
+          "About this item": [
+            "PREMIUM ARABICA – Begin Coffee Co ground coffee contains a rich blend of premium Arabica coffee beans that have been roasted to perfection. Each cup delivers the delicious flavor and unmistakable aroma of Begin Coffee Co.",
+            "GLUTEN FREE – Begin Coffee Co ground coffee is gluten free. It comes in our classic stainless steel, taxicab yellow and black can.",
+            "ALL PURPOSE GRIND – There is only one grind of ground coffee and it makes the perfect cup of coffee."
+          ]
+        },
+        "price": 8,
+        "categories": [ "coffee", "espresso", "arabica" ],
+        "stockAmount": 70
+      },
+      {
+        "title": "Handmade Milk Chocolate Bulk Candy",
+        "productCode": "CHBM1",
+        "image": "https://images.unsplash.com/photo-1626697556651-67ebdcb8cbd6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "description": {
+          "Flavor": "Chocolate",
+          "Item Dimensions LxWxH": "7.2 x 6.9 x 2.1 cm",
+          "Allergen Information": "Milk, Soy, Almonds",
+          "About this item": [
+            "A full-bodied dark chocolate; masterfully crafted to be smooth and rich with profound cocoa flavor and surprisingly balanced taste",
+            "Expertly crafted with the finest ingredients",
+            "Stock up on these dark chocolate bars for the true dark chocolate connoisseur to share at the office, enjoy at a dinner party, or bake with at home; the perfect dark chocolate gift",
+            "Made with premium ingredients from world-renowned regions; Great for holiday sharing and gifting"
+          ]
+        },
+        "price": 3.5,
+        "categories": [ "chocolate", "dessert", "milk chocolate" ],
+        "stockAmount": 150
+      },
+      {
+        "title": "Cocoa Supreme 90% Dark Chocolate, Gluten Free",
+        "productCode": "CHBD1",
+        "image": "https://images.unsplash.com/photo-1626697556651-67ebdcb8cbd6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "description": {
+          "Flavor": "90% Cocoa Dark",
+          "Item Dimensions LxWxH": "8 x 5.7 x 4 cm",
+          "Chocolate Type": "Dark",
+          "About this item": [
+            "A full-bodied dark chocolate; masterfully crafted to be smooth and rich with profound cocoa flavor and surprisingly balanced taste",
+            "Expertly crafted with the finest ingredients",
+            "Stock up on these dark chocolate bars for the true dark chocolate connoisseur to share at the office, enjoy at a dinner party, or bake with at home; the perfect dark chocolate gift",
+            "Made with premium ingredients from world-renowned regions; Great for holiday sharing and gifting"
+          ]
+        },
+        "price": 5,
+        "categories": [ "chocolate", "bitter chocolate", "chocoa" ],
+        "stockAmount": 130
+      }
+]
